@@ -1,0 +1,40 @@
+*{
+    font-family: "Roboto", sans-serif;
+    color: white;
+      
+}
+body{
+    background-color: black;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    border: solid 2px white;
+    border-radius: 10px;
+    width: 350px;
+    padding: 10px;
+    background-color: rgb(42, 28, 87);
+    font-weight: bolder;
+   
+}
+.formulario input{
+    color: black;
+}
+
+.choose{
+    display: flex;
+    justify-content: space-around;
+   
+}
+button{
+    width: 90px;
+    background-color: black;
+    font-weight: 25px;
+    color: white;
+}
+#enviar{
+    width: 90px;
+    background-color: black;
+    font-weight:25px;
+    color: white;
+}
