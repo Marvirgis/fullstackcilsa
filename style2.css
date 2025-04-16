@@ -17,6 +17,9 @@ body{
     font-weight: bolder;
    
 }
+.titulo{
+    text-align: center;
+}
 .formulario input{
     color: black;
 }

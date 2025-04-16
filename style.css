@@ -1,6 +1,5 @@
 *{
     font-family: "Roboto", sans-serif;
-      
 }
 .formulario{
     display: flex;
@@ -10,6 +9,9 @@
     width: 350px;
     padding: 10px;
    
+}
+.titulo{
+    text-align: center;
 }
 .choose{
     display: flex;
